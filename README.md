@@ -1,1 +1,1 @@
-# Dice-game
+# dice_game
